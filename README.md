@@ -1,0 +1,12 @@
+# TODO
+- Define routes
+- Define models and fixtures
+  - Story
+  - User
+  - Vote
+  - Comment
+- Order Stories by upvotes
+- Implement upvote
+- Submit Stories
+- Comments
+- Upvotes on Comments
